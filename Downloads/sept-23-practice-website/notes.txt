@@ -1,0 +1,8 @@
+gh auth status (for checking the status of which acc i logged in currently.)
+gh auth logout / gh auth login 
+
+git remote -v (which repo remote i am using.)
+
+
+change the repo remote to upload folder/file.....
+git remote set-url origin git@github.com:askagoii/Scratch-website.git
